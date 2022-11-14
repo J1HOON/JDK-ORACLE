@@ -36,5 +36,19 @@
 ![image](https://user-images.githubusercontent.com/102014376/201575620-25d74820-6e2d-4a3e-b232-3f55f0ae91b6.png)
 ### 넣어짐
 
+## DB구성
+
+![image](https://user-images.githubusercontent.com/102014376/201583608-77a0660e-0977-4d8c-8772-7777a852c8b0.png)
+### 주민에 대한 정보로 주민번호,주민이름,전화번호,주소 
 
 
+![image](https://user-images.githubusercontent.com/102014376/201583648-d78a824d-da23-488d-8c58-2c1d378c5b72.png)
+### 병원에 대한 정보로 병원코드,병원명,대표전화,병원주소 
+
+
+![image](https://user-images.githubusercontent.com/102014376/201583701-bc001dea-73d2-43aa-a480-f803a4c7c968.png)
+### 백신예약에 대한 정보로 예약번호,주민번호,병원코드,예약날짜,예약시간,백신코드 
+
+
+
+백신 예약 DB는 3개로 주민과 병원, 그리고 백신 예약 3개로 나눔
