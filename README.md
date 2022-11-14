@@ -52,3 +52,13 @@
 
 
 백신 예약 DB는 3개로 주민과 병원, 그리고 백신 예약 3개로 나눔
+
+## 페이지 구상
+
+### 레이아웃 header, nav, section, footer로 4가지
+
+### css는 style.css 하나 
+
+### 메인 jsp는 
+
+
