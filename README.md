@@ -1,5 +1,7 @@
 # JDK-ORACLE
 
+## 정보처리산업기사 외부평가를 대비한 기출문제
+### 먼저 새로운 워크스페이스를 만들어 준뒤 기본적인 세팅
 
 
 ![image](https://user-images.githubusercontent.com/102014376/201569494-86dae330-8060-4756-8a4e-312c0e7282de.png)
