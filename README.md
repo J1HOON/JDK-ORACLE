@@ -36,11 +36,5 @@
 ![image](https://user-images.githubusercontent.com/102014376/201575620-25d74820-6e2d-4a3e-b232-3f55f0ae91b6.png)
 ### 넣어짐
 
-## 페이지 만들기
-![image](https://user-images.githubusercontent.com/102014376/201575592-da5ced09-4f9f-4300-9830-ff0d86d1bd31.png)
-### 레이아웃 4개와, CSS, 그리고 SQL로 데이터베이스를 만들어 준 후 실행 화면으로 출력될 JSP파일 7개를 만들어줌
 
-
-## 웹페이지 실행
-![image](https://user-images.githubusercontent.com/102014376/201575528-4c5cac20-f2f5-4ff5-869c-85eb2966795d.png)
 
